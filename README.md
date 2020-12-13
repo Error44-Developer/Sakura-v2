@@ -1,2 +1,3 @@
 # Sakura-v2
 I‘m more than a normal Discord bot!
+# A small open source project. There are approaches and ideas for a global bot, but the bot is not yet finished...
