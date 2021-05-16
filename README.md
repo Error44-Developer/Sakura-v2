@@ -1,2 +1,2 @@
-# I‘m more than a normal Discord bot!
-A small open source project. There are approaches and ideas for a global bot, but the bot is not yet finished...
+# Discord bot
+Here you can find a main file of a Discord bot with which you can start your bot it is very simple and very well programmed
