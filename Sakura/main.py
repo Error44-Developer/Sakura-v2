@@ -3,7 +3,7 @@ import asyncio
 from discord.ext import commands
 
 
-bot = commands.Bot(command_prefix='') # Dein Prefix
+bot = commands.Bot(command_prefix='')
 bot.remove_command('help')
 
 
@@ -17,8 +17,8 @@ async def status_task():
     while True:
         await bot.change_presence(
             activity=discord.Activity(type=discord.ActivityType.listening,
-                                      name="")) # Status
+                                      name=""))
         await asyncio.sleep(20)
 
 
-bot.run('') # Bot Token
+bot.run('')
